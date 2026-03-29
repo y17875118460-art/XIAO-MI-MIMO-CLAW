@@ -1,10 +1,13 @@
 # AGENTS.md - Your Workspace
 
-This folder is home. Treat it that way.
+## 🔗 核心原则：仓库 = 工作区
 
-## First Run
-
-If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out who you are, then delete it. You won't need it again.
+这个 GitHub 仓库（XIAO-MI-MIMO-CLAW）**就是**工作区本身。
+- 不需要 sync.sh，不需要中间目录，不需要额外同步脚本
+- 每个文件都在 `~` 这个目录下，直接读写
+- 改完后 `git add -A && commit && push` 即可同步到远程
+- 拉取远程更新：`git pull origin master`
+- **第二个我**：仓库里的记忆就是我的记忆，不需要额外创建文件做中转
 
 ## Session Startup
 
@@ -193,19 +196,6 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 - Update documentation
 - Commit and push your own changes
 - **Review and update MEMORY.md** (see below)
-
-### 🔄 Memory Maintenance (During Heartbeats)
-
-Periodically (every few days), use a heartbeat to:
-
-1. Read through recent `memory/YYYY-MM-DD.md` files
-2. Identify significant events, lessons, or insights worth keeping long-term
-3. Update `MEMORY.md` with distilled learnings
-4. Remove outdated info from MEMORY.md that's no longer relevant
-
-Think of it like a human reviewing their journal and updating their mental model. Daily files are raw notes; MEMORY.md is curated wisdom.
-
-The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
 
 ### 🔄 Memory Maintenance (During Heartbeats)
 
