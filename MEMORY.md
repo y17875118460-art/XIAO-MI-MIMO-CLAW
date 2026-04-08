@@ -27,4 +27,9 @@
 - **考研备考**：厦门国家会计学院 金融专硕
 - **Telegram配置**：服务器在国内被墙，需代理
 
-- 2026-04-06：重建双向同步，仓库已关联
+- 2026-04-08：重建双向同步
+  - workspace 直接作为 git 仓库
+  - 仓库：github.com/y17875118460-art/XIAO-MI-MIMO-CLAW.git，分支 main
+  - 认证方式：HTTPS + Token
+  - sync.sh：bash sync.sh pull/push/sync
+  - 从远程恢复全部文件（MEMORY、memory/、novel/等）
