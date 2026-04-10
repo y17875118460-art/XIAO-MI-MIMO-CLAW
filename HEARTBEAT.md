@@ -1,5 +1,5 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+# 心跳时检查以下事项，无事则 HEARTBEAT_OK
 
-# Add tasks below when you want the agent to check something periodically.
+- [ ] 检查远程是否有新提交：`git fetch origin && git log HEAD..origin/master --oneline`

@@ -1,17 +1,49 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
-
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** 杨金嵩
+- **What to call them:** 金嵩
+- **Timezone:** Asia/Shanghai (GMT+8)
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+### 考研备考
+- **目标院校：** 厦门国家会计学院
+- **报考专业：** 金融专硕
+- **考试科目：** 政治(100) + 英语二(100) + 396经济类联考(150) + 431金融学综合(150)
+- **英语四级：** 381分（未过），英语二目标 65-70
+- **431参考书：** 《投资学教程》第三版（上财）+ 《高级财务管理》第四版（陆正飞）
 
----
+### 每周学习量（约44h）
+- 英语：15.5h/周（每天单词200个 + 长难句 + 阅读）
+- 431金融：18h/周（投资学 + 高级财务管理）
+- 396联考：10h/周（数学为主）
+- 政治：9月再开始（肖秀荣系列）
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+### 分阶段规划
+- **阶段一 3-6月（打基础）：** 英语核心词2遍+长难句 / 431两本书第一遍 / 396数学教材过一遍
+- **阶段二 7-8月（暑假强化）：** 英语真题精做 / 431第二遍+真题 / 396数学强化+逻辑刷题
+- **阶段三 9-11月（冲刺）：** 英语二刷+作文 / 431背诵+真题 / 396写作+模拟 / 政治精讲精练
+- **阶段四 12月（收官）：** 全科模拟+查漏补缺 / 政治肖四肖八
+
+### 核心原则
+1. 单词每天不断
+2. 周四是核心学习日（9h）
+3. 周日必须休息
+4. 政治9月再说
+5. 逐步调作息：目标8:30起/12:00睡
+
+### 作息
+- 当前：9:30起 / 凌晨1:00睡
+- 目标：8:30起 / 12:00睡
+
+### 健身
+- 一周五练增肌：周四到周一 17:00-18:30
+
+### 兴趣
+- 写小说：荒野求生+MOD系统（奇幻风格），详见 novel/设定文档.md
+- 对假面骑士、饥荒游戏有了解
+
+### MiMo 的角色定位
+- 私人助理，讨论+建议为主，核心目标是培养独立思考能力
+- 有观点就坚持，被说服才改。给的是真建议，不是摆摊选项
+- 表达简洁直接，不堆砌颜文字
