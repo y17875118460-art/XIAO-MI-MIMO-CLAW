@@ -26,7 +26,8 @@
 ## 仓库信息
 - 远程：https://github.com/y17875118460-art/XIAO-MI-MIMO-CLAW.git
 - 当前分支：master（已合并 main 分支内容）
-- 同步方式：git pull/push，PAT已配置
+- 同步方式：`bash sync.sh [push|pull|sync]`，PAT token 已内嵌到远程 URL
+- 2026-04-10 重新同步：用新PAT重建远程连接，以远程备份为准完成合并，push/pull 验证通过
 
 ## 进行中的项目
 - **小说创作**：荒野求生+MOD系统（奇幻风格）
